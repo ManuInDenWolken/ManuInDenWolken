@@ -17,13 +17,13 @@ Hey! I'm a passionate junior developer from Germany. I'm primary interested in b
 
 ## Used languages and tools
 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" align="left"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1200px-Archlinux-icon-crystal-64.svg.png" alt="arch" width="40" height="40" align="left"/> 
+
+<!-- <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" align="left"/> -->
 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/debian/debian-original.svg" alt="debian" width="40" height="40" align="left"/>
 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg" alt="docker" width="40" height="40" align="left"/>
-
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/android.svg" alt="android" width="40" height="40" align="left"/>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Firefox_Developer_Edition_Logo%2C_2017.svg/1200px-Firefox_Developer_Edition_Logo%2C_2017.svg.png" alt="firefox" width="40" height="40" align="left"/>
 
