@@ -23,7 +23,9 @@ Hey! I'm a passionate junior developer from Germany. I'm primary interested in b
 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg" alt="docker" width="40" height="40" align="left"/>
 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/firefox/firefox-original.svg" alt="firefox" width="40" height="40" align="left"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/android.svg" alt="android" width="40" height="40" align="left"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Firefox_Developer_Edition_Logo%2C_2017.svg/1200px-Firefox_Developer_Edition_Logo%2C_2017.svg.png" alt="firefox" width="40" height="40" align="left"/>
 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git" width="40" height="40" align="left"/>
 
@@ -39,7 +41,7 @@ Hey! I'm a passionate junior developer from Germany. I'm primary interested in b
 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" align="left"/>
 
-<img src="https://www.nuvias.com/wp-content/uploads/2018/11/jenkins.png" alt="jenkins" width="40" height="40" align="left"/>
+<img src="https://p7.hiclipart.com/preview/811/817/139/jenkins-continuous-integration-build-automation-continuous-delivery-software-build-integration-thumbnail.jpg" alt="jenkins" width="40" height="40" align="left"/>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1200px-IntelliJ_IDEA_Logo.svg.png" alt="intellij" width="40" height="40" align="left"/>
 
@@ -69,7 +71,7 @@ Hey! I'm a passionate junior developer from Germany. I'm primary interested in b
 
 <!-- <img src="https://devicons.github.io/devicon/devicon.git/icons/webstorm/webstorm-original.svg" alt="webstorm" width="40" height="40" align="left"/> -->
 
-<img src="https://kotlinlang.org/assets/images/open-graph/kotlin_250x250.png" alt="kotlin" width="40" height="40" align="left"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin-logo.svg/1200px-Kotlin-logo.svg.png" alt="kotlin" width="40" height="40" align="left"/>
 
 <!-- <img src="https://gradle.org/images/gradle-knowledge-graph-logo.png?20170228" alt="gradle" width="40" height="40" align="left"/> -->
 
@@ -77,6 +79,6 @@ Hey! I'm a passionate junior developer from Germany. I'm primary interested in b
 
 <!-- <img src="https://image.jimcdn.com/app/cms/image/transf/dimension=4000x3000:format=png/path/s64aa66dea176b2f5/image/i9d0d15ed7a24e1a4/version/1537944200/image.png" alt="traefik" width="40" height="40" align="left"/> -->
 
-<img src="https://banner2.cleanpng.com/20180607/esv/kisspng-apache-maven-apache-ant-gradle-apache-http-server-apache-maven-5b194e571b97f1.295739891528385111113.jpg" alt="maven" width="40" height="40" align="left"/>
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" alt="maven" width="40" height="40" align="left"/>
 
-<img src="https://assets.stickpng.com/images/5847ea22cef1014c0b5e4833.png" alt="angular" width="40" height="40" align="left"/>
+<img src="https://angular.io/assets/images/logos/angular/angular.png" alt="angular" width="40" height="40" align="left"/>
