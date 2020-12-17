@@ -15,11 +15,11 @@ Hey! I'm a passionate junior developer from Germany. I'm primary interested in b
 
 <br>
 
-<script>
+<style>
   li {
     font-size: 10%;
   }
-</script>
+</style>
 
 ## Preferences
 
