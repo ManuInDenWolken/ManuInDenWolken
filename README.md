@@ -15,12 +15,6 @@ Hey! I'm a passionate junior developer from Germany. I'm primary interested in b
 
 <br>
 
-<style>
-  li {
-    font-size: 10%;
-  }
-</style>
-
 ## Preferences
 
 ### Languages
