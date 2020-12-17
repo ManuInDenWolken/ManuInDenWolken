@@ -45,6 +45,6 @@ Hey! I'm a passionate junior developer from Germany. I'm primary interested in b
 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original.svg" alt="redis" width="35" height="35" align="left"/>
 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="35" height="35" align="left"/>
-
 <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg" alt="docker" width="35" height="35" align="left"/>
+
+<img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="35" height="35" align="left"/>
