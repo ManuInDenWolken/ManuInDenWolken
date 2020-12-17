@@ -15,36 +15,41 @@ Hey! I'm a passionate junior developer from Germany. I'm primary interested in b
 
 <br>
 
-## Used languages and tools
+## Preferences
 
-<img src="https://angular.io/assets/images/logos/angular/angular.png" alt="angular" width="35" height="35" align="left"/>
+### Languages
 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" alt="html5" width="35" height="35" align="left"/>
+<ul>
+  <li><a href="https://en.wikipedia.org/wiki/HTML5/">HTML5</a></li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">JavaScript</a></li>
+  <li><a href="https://www.typescriptlang.org/">TypeScript</a></li>
+  <li><a href="https://www.java.com/en/">Java</a></li>
+  <li><a href="https://kotlinlang.org/">Kotlin</a></li>
+</ul>
 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35" align="left"/>
+### Frameworks and libraries
 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="35" height="35" align="left"/>
+<ul>
+  <li><a href="https://angular.io/">Angular</a></li>
+  <li><a href="https://dev.bukkit.org/">Bukkit</a></li>
+</ul>
 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="java" width="35" height="35" align="left"/>
+### Databases
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin-logo.svg/1200px-Kotlin-logo.svg.png" alt="kotlin" width="35" height="35" align="left"/>
+<ul>
+  <li><a href="https://www.mongodb.com/">MongoDB</a></li>
+  <li><a href="https://www.mysql.com/">MySQL</a></li>
+  <li><a href="https://redis.io/">Redis</a></li>
+</ul>
 
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" alt="maven" width="35" height="35" align="left"/>
+### Other tools
 
-<img src="https://getbukkit.org/assets/img/getbukkit.png" alt="bukkit" width="35" height="35" align="left"/>
-
-<img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git" width="35" height="35" align="left"/>
+<ul>
+  <li><a href="https://maven.apache.org/">Maven</a></li>
+  <li><a href="https://git-scm.com/">Git</a></li>
+  <li><a href="https://www.jetbrains.com/">JetBrains</a></li>
+  <li><a href="https://www.docker.com/">Docker</a></li>
+  <li><a href="https://github.com/torvalds/linux/">Linux</a></li>
+</ul>
 
 <!-- <img src="https://p7.hiclipart.com/preview/811/817/139/jenkins-continuous-integration-build-automation-continuous-delivery-software-build-integration-thumbnail.jpg" alt="jenkins" width="40" height="40" align="left"/> -->
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/JetBrains_Logo_2016.svg/1200px-JetBrains_Logo_2016.svg.png" alt="jetbrains" width="35" height="35" align="left"/>
-
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" alt="mongodb" width="35" height="35" align="left"/>
-
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" alt="mysql" width="35" height="35" align="left"/>
-
-<img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original.svg" alt="redis" width="35" height="35" align="left"/>
-
-<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg" alt="docker" width="35" height="35" align="left"/>
-
-<img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="35" height="35" align="left"/>
