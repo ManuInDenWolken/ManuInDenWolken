@@ -17,7 +17,7 @@ Hey! I'm a passionate junior developer from Germany. I'm primary interested in b
 
 ## Used languages and tools
 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg" alt="docker" width="30" height="30" align="left"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg" alt="docker" width="35" height="35" align="left"/>
 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git" width="40" height="40" align="left"/>
 
