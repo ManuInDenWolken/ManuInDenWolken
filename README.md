@@ -3,7 +3,7 @@
 
 ### About me
 
-Hey! I'm a passionate junior developer from Germany. I'm primary interested in backend development on JVM and frontend development on Svelte.
+Hey! I'm a passionate junior developer from Germany. I'm primary interested in backend development on JVM.
 
 <br>
 
@@ -28,7 +28,7 @@ Hey! I'm a passionate junior developer from Germany. I'm primary interested in b
 ### Frameworks and libraries
 
 <ul>
-  <li><a href="https://angular.io/">Angular</a></li>
+  <li><a href="https://svelte.dev/">Svelte</a></li>
   <li><a href="https://dev.bukkit.org/">Bukkit</a></li>
 </ul>
 
