@@ -3,7 +3,7 @@
 
 ### About me
 
-Hey! I'm a passionate junior developer from Germany. I'm primary interested in backend development on JVM and frontend development on Angular.
+Hey! I'm a passionate junior developer from Germany. I'm primary interested in backend development on JVM and frontend development on Svelte.
 
 <br>
 
