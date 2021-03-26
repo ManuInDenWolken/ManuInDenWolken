@@ -7,7 +7,7 @@ Hey! I'm a passionate junior developer from Germany. I'm primary interested in b
 
 <br>
 
-## Skills
+## Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=ManuInDenWolken&theme=gotham">
 
